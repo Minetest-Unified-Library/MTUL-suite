@@ -6,3 +6,6 @@
 	path = MTUL-b3d-standalone
 	url = https://github.com/Minetest-Unification-Library/MTUL-b3d-standalone
 	branch = master
+[submodule "MTUL-CPML"]
+	path = MTUL-CPML
+	url = https://github.com/Minetest-Unification-Library/MTUL-CPML
