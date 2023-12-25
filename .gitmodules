@@ -1,6 +1,6 @@
 [submodule "MTUL-core"]
 	path = MTUL-core
-	url = https://github.com/Minetest-Unification-Library/MTUL-core
+	url = https://github.com/Minetest-Unification-Library/MTUL-filesystem
 	branch = master
 [submodule "MTUL-b3d-standalone"]
 	path = MTUL-b3d-standalone
