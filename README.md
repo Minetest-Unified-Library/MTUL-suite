@@ -3,4 +3,4 @@
 
 todo:
 * automatically update submodules?
-* remove core
+* find some way to make a super-doc for the modules
