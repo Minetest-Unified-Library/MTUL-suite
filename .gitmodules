@@ -10,7 +10,3 @@
 	path = MTUL-CPML
 	url = https://github.com/Minetest-Unification-Library/MTUL-CPML
 	branch = branch
-[submodule "MTUL-class"]
-	path = MTUL-class
-	url = https://github.com/Minetest-Unification-Library/MTUL-class
-	branch = master
