@@ -7,6 +7,7 @@ Documentation for the libraries:
 # Modules and their docs:
 https://minetest-unified-library.github.io/MTUL-b3d/
 * adds a library for reading and writing blitz3d models from strict Lua tables.
+* also adds tools for looking up animation data
 
 https://minetest-unified-library.github.io/MTUL-CPML/
 * adds an extensive math library
