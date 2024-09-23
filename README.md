@@ -22,4 +22,4 @@ https://minetest-unified-library.github.io/MTUL-filesystem/
 # todo:
 * automatically update submodules?
 * fix quaternions
-* find some way to make a super-doc for the modules
+* make a super-doc for the modules
