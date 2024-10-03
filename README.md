@@ -11,7 +11,7 @@ https://minetest-unified-library.github.io/MTUL-b3d/
 
 https://minetest-unified-library.github.io/MTUL-CPML/
 * adds an extensive math library
-* please note that quaternion <-> euler conversions are completely broken.
+* please note that quaternion <-> euler conversions are completely broken (fix soon)
 
 https://minetest-unified-library.github.io/MTUL-filesystem/
 * adds binary manipulation
